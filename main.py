@@ -8,7 +8,7 @@ import requests, json, os
 from datetime import datetime
 from database import PLANTS, CLIMATE_PLANTS
 
-WEATHER_KEY = "30dfcfed30b505375c93aac831910d15"  
+WEATHER_KEY = "Open_weather_api_key"  
 DB_FILE     = "plants.json"
 
 # -- JSON FILE -----------------------------------------------------------------
