@@ -1,0 +1,309 @@
+{
+    "searches": [
+        {
+            "timestamp": "2026-04-01 19:43:49",
+            "city": "Mumbai",
+            "country": "IN",
+            "temp": 27.99,
+            "humidity": 61,
+            "condition": "Haze",
+            "search_type": "suggestion",
+            "query": "subtropical"
+        },
+        {
+            "timestamp": "2026-04-01 19:44:11",
+            "city": "Mumbai",
+            "country": "IN",
+            "temp": 27.99,
+            "humidity": 61,
+            "condition": "Haze",
+            "search_type": "care_schedule",
+            "query": "tulsi"
+        },
+        {
+            "timestamp": "2026-04-01 19:57:25",
+            "city": "Delhi",
+            "country": "IN",
+            "temp": 30.05,
+            "humidity": 37,
+            "condition": "Haze",
+            "search_type": "suggestion",
+            "query": "temperate"
+        },
+        {
+            "timestamp": "2026-04-01 19:57:52",
+            "city": "N/A",
+            "country": "N/A",
+            "temp": 0,
+            "humidity": 0,
+            "condition": "N/A",
+            "search_type": "care_schedule",
+            "query": "aloe vera"
+        },
+        {
+            "timestamp": "2026-04-03 10:51:12",
+            "city": "Delhi",
+            "country": "IN",
+            "temp": 27.05,
+            "humidity": 50,
+            "condition": "Dust",
+            "search_type": "suggestion",
+            "query": "subtropical"
+        },
+        {
+            "timestamp": "2026-04-04 11:15:37",
+            "city": "Delhi",
+            "country": "IN",
+            "temp": 26.05,
+            "humidity": 57,
+            "condition": "Haze",
+            "search_type": "suggestion",
+            "query": "subtropical"
+        }
+    ],
+    "plants": {
+        "rose": {
+            "common_name": "Rose",
+            "scientific_name": "Rosa",
+            "category": "Flower",
+            "description": "A classic flowering plant loved for its fragrant blooms. Great for gardens and pots.",
+            "watering": "Regular \u2014 keep soil moist but not waterlogged",
+            "watering_every": "Every 2-3 days in summer, once a week in winter",
+            "sunlight": "Full sun \u2014 at least 6 hours of direct sunlight daily",
+            "soil": "Well-drained, loamy soil rich in organic matter",
+            "pruning": "February and March \u2014 cut dead wood and shape the plant",
+            "temperature": "15C to 35C",
+            "maintenance": "Medium",
+            "growth_rate": "Moderate",
+            "indoor": false,
+            "toxic_humans": false,
+            "toxic_pets": true,
+            "climates": [
+                "subtropical",
+                "temperate"
+            ]
+        },
+        "marigold": {
+            "common_name": "Marigold",
+            "scientific_name": "Tagetes",
+            "category": "Flower",
+            "description": "A bright, cheerful flower that also repels insects. Very easy to grow from seeds.",
+            "watering": "Moderate \u2014 water at the base, avoid wetting leaves",
+            "watering_every": "Every 2-3 days",
+            "sunlight": "Full sun \u2014 at least 6 hours daily",
+            "soil": "Well-drained, moderately fertile soil",
+            "pruning": "Deadhead spent flowers regularly to encourage more blooms",
+            "temperature": "18C to 35C",
+            "maintenance": "Low",
+            "growth_rate": "Fast",
+            "indoor": false,
+            "toxic_humans": false,
+            "toxic_pets": false,
+            "climates": [
+                "tropical",
+                "subtropical",
+                "temperate"
+            ]
+        },
+        "jasmine": {
+            "common_name": "Jasmine",
+            "scientific_name": "Jasminum",
+            "category": "Flower",
+            "description": "A climbing plant with intensely fragrant white flowers. Very popular in South Asian homes.",
+            "watering": "Regular \u2014 water deeply but allow soil to dry slightly between waterings",
+            "watering_every": "Every 2-3 days",
+            "sunlight": "Full sun to partial shade",
+            "soil": "Well-drained loamy soil",
+            "pruning": "Prune after flowering to keep shape and encourage growth",
+            "temperature": "15C to 35C",
+            "maintenance": "Medium",
+            "growth_rate": "Fast",
+            "indoor": false,
+            "toxic_humans": false,
+            "toxic_pets": false,
+            "climates": [
+                "tropical",
+                "subtropical"
+            ]
+        },
+        "chilli": {
+            "common_name": "Chilli",
+            "scientific_name": "Capsicum annuum",
+            "category": "Fruit/Vegetable",
+            "description": "A spicy fruit plant that grows very well in Indian weather. Easy to grow in pots.",
+            "watering": "Moderate \u2014 keep soil moist but not soggy",
+            "watering_every": "Every 2 days",
+            "sunlight": "Full sun \u2014 6-8 hours daily",
+            "soil": "Well-drained fertile soil with compost",
+            "pruning": "Pinch growing tips to encourage bushy growth and more fruits",
+            "temperature": "20C to 38C",
+            "maintenance": "Low",
+            "growth_rate": "Moderate",
+            "indoor": false,
+            "toxic_humans": false,
+            "toxic_pets": true,
+            "climates": [
+                "tropical",
+                "subtropical"
+            ]
+        },
+        "lemon": {
+            "common_name": "Lemon",
+            "scientific_name": "Citrus limon",
+            "category": "Fruit",
+            "description": "A small citrus tree that can grow in pots. Gives fruit year-round in warm climates.",
+            "watering": "Regular \u2014 keep soil moist but never waterlogged",
+            "watering_every": "Every 2-3 days",
+            "sunlight": "Full sun \u2014 at least 8 hours daily",
+            "soil": "Well-drained, slightly acidic soil",
+            "pruning": "Prune dead branches after fruiting to maintain shape",
+            "temperature": "15C to 38C",
+            "maintenance": "Medium",
+            "growth_rate": "Moderate",
+            "indoor": false,
+            "toxic_humans": false,
+            "toxic_pets": true,
+            "climates": [
+                "tropical",
+                "subtropical"
+            ]
+        },
+        "tulsi": {
+            "common_name": "Tulsi",
+            "scientific_name": "Ocimum tenuiflorum",
+            "category": "Herb",
+            "description": "Also called Holy Basil. A sacred and medicinal herb widely grown in Indian homes.",
+            "watering": "Moderate \u2014 water when the top inch of soil feels dry",
+            "watering_every": "Every 2-3 days",
+            "sunlight": "Full sun \u2014 needs 6-8 hours of sunlight",
+            "soil": "Well-drained fertile soil, slightly alkaline",
+            "pruning": "Pinch off flower buds regularly to encourage bushy growth",
+            "temperature": "20C to 40C",
+            "maintenance": "Low",
+            "growth_rate": "Fast",
+            "indoor": true,
+            "toxic_humans": false,
+            "toxic_pets": false,
+            "climates": [
+                "tropical",
+                "subtropical"
+            ]
+        },
+        "lavender": {
+            "common_name": "Lavender",
+            "scientific_name": "Lavandula",
+            "category": "Flower",
+            "description": "A fragrant herb with purple flowers. Known for calming properties and beautiful aroma.",
+            "watering": "Low \u2014 drought tolerant once established",
+            "watering_every": "Every 1-2 weeks",
+            "sunlight": "Full sun \u2014 needs at least 6 hours",
+            "soil": "Sandy, alkaline, well-drained soil",
+            "pruning": "Prune after flowering in late summer",
+            "temperature": "5C to 30C",
+            "maintenance": "Low",
+            "growth_rate": "Moderate",
+            "indoor": false,
+            "climates": [
+                "temperate",
+                "dry"
+            ]
+        },
+        "mint": {
+            "common_name": "Mint",
+            "scientific_name": "Mentha",
+            "category": "Herb",
+            "description": "A fast-growing herb with a refreshing smell. Great for teas, cooking, and medicine.",
+            "watering": "Regular \u2014 keep soil consistently moist",
+            "watering_every": "Every 1-2 days",
+            "sunlight": "Partial sun to full sun",
+            "soil": "Rich, moist, well-drained soil",
+            "pruning": "Pinch off tips regularly to prevent flowering and keep it bushy",
+            "temperature": "10C to 30C",
+            "maintenance": "Low",
+            "growth_rate": "Very fast",
+            "indoor": true,
+            "climates": [
+                "temperate",
+                "subtropical"
+            ]
+        },
+        "spinach": {
+            "common_name": "Spinach",
+            "scientific_name": "Spinacia oleracea",
+            "category": "Vegetable",
+            "description": "A fast-growing leafy green rich in iron and vitamins. Great for kitchen gardens.",
+            "watering": "Regular \u2014 keep soil moist at all times",
+            "watering_every": "Every day or every other day",
+            "sunlight": "Partial shade to full sun",
+            "soil": "Moist, nitrogen-rich fertile soil",
+            "pruning": "Harvest outer leaves regularly to encourage continuous growth",
+            "temperature": "10C to 24C",
+            "maintenance": "Low",
+            "growth_rate": "Fast",
+            "indoor": false,
+            "climates": [
+                "temperate",
+                "cold",
+                "subtropical"
+            ]
+        },
+        "strawberry": {
+            "common_name": "Strawberry",
+            "scientific_name": "Fragaria ananassa",
+            "category": "Fruit",
+            "description": "A sweet, compact fruit plant perfect for pots and balconies. Loved by everyone.",
+            "watering": "Regular \u2014 keep soil consistently moist",
+            "watering_every": "Every 1-2 days",
+            "sunlight": "Full sun \u2014 6-8 hours daily",
+            "soil": "Sandy loam with good drainage and slightly acidic pH",
+            "pruning": "Remove runners to focus energy on fruit production",
+            "temperature": "15C to 28C",
+            "maintenance": "Medium",
+            "growth_rate": "Moderate",
+            "indoor": false,
+            "climates": [
+                "temperate",
+                "subtropical"
+            ]
+        },
+        "coriander": {
+            "common_name": "Coriander",
+            "scientific_name": "Coriandrum sativum",
+            "category": "Herb",
+            "description": "Also called dhania. An essential kitchen herb used in almost every Indian dish.",
+            "watering": "Regular \u2014 keep soil moist but not waterlogged",
+            "watering_every": "Every 1-2 days",
+            "sunlight": "Full sun to partial shade",
+            "soil": "Well-drained, fertile, loamy soil",
+            "pruning": "Harvest leaves regularly from the top to encourage more growth",
+            "temperature": "15C to 28C",
+            "maintenance": "Low",
+            "growth_rate": "Fast",
+            "indoor": true,
+            "climates": [
+                "temperate",
+                "subtropical"
+            ]
+        },
+        "aloe vera": {
+            "common_name": "Aloe Vera",
+            "scientific_name": "Aloe barbadensis miller",
+            "category": "Houseplant",
+            "description": "A succulent with thick gel-filled leaves. Useful for skin and burns. Very easy to grow.",
+            "watering": "Minimal \u2014 let soil dry out completely between waterings",
+            "watering_every": "Every 2-3 weeks",
+            "sunlight": "Bright indirect sunlight or partial sun",
+            "soil": "Sandy or cactus mix \u2014 must drain very well",
+            "pruning": "No pruning needed \u2014 remove dead outer leaves only",
+            "temperature": "13C to 40C",
+            "maintenance": "Low",
+            "growth_rate": "Slow",
+            "indoor": true,
+            "climates": [
+                "tropical",
+                "dry",
+                "subtropical"
+            ]
+        }
+    }
+}
