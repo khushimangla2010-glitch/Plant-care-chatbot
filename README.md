@@ -13,9 +13,9 @@ Enter your city name when prompted
 The bot shows live weather and detects your climate
 Choose an option:
 
-Option 1 — Get 5 plant suggestions suited to your weather
-Option 2 — Type any plant name to get its full care schedule
-Option 3 — Exit
+Option 1 - Get 5 plant suggestions suited to your weather
+Option 2 - Type any plant name to get its full care schedule
+Option 3 - Exit
 
 Plant Database
 30 plants across 5 categories are built into database.py
